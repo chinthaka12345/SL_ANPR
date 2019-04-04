@@ -7,7 +7,9 @@ This project is trying to full fill the gap.
 
 ## Languages
 - Python
+- OpenCV
 - Deep Learning
+- OCR
 
 ## Samples
 
