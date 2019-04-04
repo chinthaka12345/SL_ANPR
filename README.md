@@ -19,3 +19,10 @@ In the all sample images successfully detected the number plate and read it corr
 - CAU 3400
 - NB-3186
 - CAT 7815
+
+## TODO
+### Accuracy 
+Currently 80% and possible to improve more than 90%
+
+### Perfomance
+It takes around 3~4s, which can improve read within 1s
